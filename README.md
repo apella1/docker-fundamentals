@@ -15,6 +15,20 @@
 - ENTRYPOINT is used to run a command when the container is started and also to run a command when the container is stopped
 - RUN is used to run a command when the image is built
 
+## EXEC
+
+## EXPOSE
+
+## VOLUME
+
+## WORKDIR
+
+## EXPORT vs IMPORT
+
+```bash
+cat export.tar | docker import - layers:3
+```
+
 ## Notes
 
 - Overriding commands
