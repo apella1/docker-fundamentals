@@ -18,3 +18,4 @@
 ## Notes
 
 - Overriding commands
+- Building from remote sources
